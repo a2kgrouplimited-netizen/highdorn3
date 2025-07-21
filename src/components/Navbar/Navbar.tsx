@@ -246,6 +246,7 @@ const Navbar = () => {
                                   {dropdownItem.name}
                                 </h3>
                                 <p className="mt-1 text-sm text-white dark:text-gray-400 line-clamp-2">
+                                <p className="mt-1 text-sm text-gray-600 dark:text-gray-400 line-clamp-2">
                                   {dropdownItem.description}
                                 </p>
                               </div>
