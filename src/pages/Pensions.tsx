@@ -109,8 +109,8 @@ const Pensions = () => {
             transition={{ duration: 0.8 }}
             className="text-center"
           >
-            <h1 className="text-5xl font-bold mb-6" style={{ color: '#FFFFFF' }}>Pension Scheme</h1>
-            <p className="text-xl max-w-3xl mx-auto" style={{ color: '#FFFFFF' }}>
+            <h1 className="text-5xl font-bold mb-6 text-white">Pension Scheme</h1>
+            <p className="text-xl max-w-3xl mx-auto text-white">
               Secure your financial future with our comprehensive defined benefit pension scheme
             </p>
           </motion.div>

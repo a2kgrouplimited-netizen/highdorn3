@@ -36,8 +36,8 @@ const ExecutiveTeam = () => {
             transition={{ duration: 0.8 }}
             className="text-center"
           >
-            <h1 className="text-5xl font-bold mb-6" style={{ color: '#FFFFFF' }}>Executive Team</h1>
-            <p className="text-xl max-w-3xl mx-auto" style={{ color: '#FFFFFF' }}>
+            <h1 className="text-5xl font-bold mb-6 text-white">Executive Team</h1>
+            <p className="text-xl max-w-3xl mx-auto text-white">
               Our senior leadership team driving operational excellence and strategic growth
             </p>
           </motion.div>

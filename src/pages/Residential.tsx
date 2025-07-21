@@ -61,8 +61,8 @@ const Residential = () => {
             transition={{ duration: 0.8 }}
             className="text-center"
           >
-            <h1 className="text-5xl font-bold mb-6" style={{ color: '#FFFFFF' }}>Residential Properties</h1>
-            <p className="text-xl max-w-3xl mx-auto" style={{ color: '#FFFFFF' }}>
+            <h1 className="text-5xl font-bold mb-6 text-white">Residential Properties</h1>
+            <p className="text-xl max-w-3xl mx-auto text-white">
               Exceptional homes in London's most desirable neighborhoods
             </p>
           </motion.div>

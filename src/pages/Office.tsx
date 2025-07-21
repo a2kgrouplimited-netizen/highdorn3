@@ -42,8 +42,8 @@ const Office = () => {
             transition={{ duration: 0.8 }}
             className="text-center"
           >
-            <h1 className="text-5xl font-bold mb-6" style={{ color: '#389bf7' }}>Office Properties</h1>
-            <p className="text-xl max-w-3xl mx-auto" style={{ color: '#389bf7' }}>
+            <h1 className="text-5xl font-bold mb-6" style={{ color: '#FFFFFF' }}>Office Properties</h1>
+            <p className="text-xl max-w-3xl mx-auto" style={{ color: '#FFFFFF' }}>
               Discover premium commercial office spaces in London's most prestigious business districts
             </p>
           </motion.div>

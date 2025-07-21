@@ -79,8 +79,8 @@ const Financials2022 = () => {
             transition={{ duration: 0.8 }}
             className="text-center"
           >
-            <h1 className="text-5xl font-bold mb-6" style={{ color: '#FFFFFF' }}>Financial Results 2022</h1>
-            <p className="text-xl max-w-3xl mx-auto" style={{ color: '#FFFFFF' }}>
+            <h1 className="text-5xl font-bold mb-6 text-white">Financial Results 2022</h1>
+            <p className="text-xl max-w-3xl mx-auto text-white">
               Resilient performance during challenging market conditions with steady growth
             </p>
           </motion.div>
